@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "echarts": "^4.6.0",
-    "jquery": "^2.1.1",
+    "jquery": "^3.5.0",
     "jsdom": "^16.2.0",
     "location": "0.0.1",
     "navigator": "^1.0.1",
